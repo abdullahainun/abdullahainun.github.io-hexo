@@ -7,7 +7,7 @@ date: 2018-12-26 17:40:00
 Hello guys, Assalamulaikum wr wb. gimana kabar kalian hari ini.  Tentunya senang sekali yaaa. karena masih bisa mentengin blog ini... 
 
 Pada kesempatan kali ini, aku pengen berbagi tips atau tutorial agar bisa download file di google drive. caranya mudah banget, yaitu dengan menggunakan tools yang aku temukan di github. berikut linknya.  https://github.com/prasmussen/gdrive.
-
+<!--more-->
 untuk lebih jelasnya berikut langkah - langkahnya
 
 1. Download the binary. Choose the one that fits your architecture, for example gdrive-linux-x64. 

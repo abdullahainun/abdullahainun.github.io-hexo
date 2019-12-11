@@ -1,14 +1,15 @@
 title: Port Forwarding with iptables
 author: Ainun Abdullah
 tags:
-  - Linux
+  - linux
+  - port-forwarding
 categories:
-  - Linux
+  - linux
 date: 2018-12-31 22:52:00
 ---
 Assalamu'alaikum wr wb guys, di malam pergantian tahun 2018 ke 2019 ini aku mau share ilmu tentang port forwarding pada sistem operasi linux.. 
 
-
+<!--more-->
 Apa itu Port Forwarding ?
 
 ![port forwarding](/images/port_forwarding.png)
@@ -35,5 +36,3 @@ berikut adalah contoh kita mengarahkan port 27017 ke komputer public di arahkan 
 ```
 iptables -t nat -A POSTROUTING -p tcp --dport 27015 -j MASQUERADE
 ```
-
-

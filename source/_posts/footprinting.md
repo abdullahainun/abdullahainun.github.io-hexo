@@ -1,11 +1,9 @@
----
 title: laporan footprinting
+tags:
+  - NetworkSecurity
+  - Laporan Kuliah
 date: 2018-08-30 19:44:51
-tags: 
-    - NetworkSecurity
-    - Laporan Kuliah
 ---
-
 # laporan footprinting Praktikum Keamanan Jaringan (Tugas 1)
 ## identitas mahasiswa
 - Nama    = Ainun Abdullah
@@ -16,7 +14,7 @@ tags:
 
 ## content
 Pada praktikum kali ini saya melakukan footprinting dengan tools nslookup dan whois
-
+<!--more-->
 nslookup adalah suatu tool untuk melihat query DNS Server yg digunakan dan juga untuk melihat IP Address suatu domain maupun sebaliknya contoh penggunaan nslookup pada percobaan ini adalah ``nslookup www.infoglobal.co.id``
 <!-- more -->
 

@@ -1,12 +1,15 @@
 title: web scraping menggunakan  BeautifulSoup python
 author: Ainun Abdullah
-date: 2019-05-06 10:59:52
 tags:
+  - web scraping
+categories:
+  - python
+date: 2019-05-06 10:59:00
 ---
 Assalamu'alaikum wr wb. selamat pagi temen - temen. semoga kalian dalam keadaan sehat wal afiat. kali ini kita akan membahas mengenai web scraping dengan menggunakan bahasa pemrogaman python. baik kita mulai artikel ini dengan pembahasan mengenai apa itu web scraping, Web scraping (panen web) adalah pengambilan sebuah dokumen semi-terstruktur dari internet, umumnya berupa halaman-halaman web dalam bahasa markup seperti HTML atau XHTML, dan menganalisis dokumen tersebut untuk diambil data tertentu dari halaman tersebut. Istilah gampangnya yaitu pengambilan konten atau sebagian data dari suatu situs web untuk penjelasan lebih detail temen-temen bisa membacanya [disini](https://pesonainformatika.com/other-notes/apa-itu-web-scraping/)
 
 Tahap pertama yang harus dilakukan supaya teman-teman dapat lebih jauh belajar web scraping adalah menggunakan library requests seperi contoh source code dibawah ini.
-
+<!--more-->
 ```python
 import requests
 page = requests.get("http://dataquestio.github.io/web-scraping-pages/simple.html")

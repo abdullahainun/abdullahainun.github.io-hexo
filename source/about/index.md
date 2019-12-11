@@ -1,4 +1,4 @@
-title: about
+title: About
 date: 2018-08-31 05:50:22
 ---
 Hello guys, ini adalah halaman blogku. yang nantinya semua pengalamanku akan aku tulis di sini. yang pasti aku berusaha semaksimal mungkin share ilmu melalui media ini. 

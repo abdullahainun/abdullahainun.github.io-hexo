@@ -1,6 +1,5 @@
----
-title: categories
-date: 2018-08-31 05:50:11
+title: Categories
 layout: categories
-type: "categories"
+type: categories
+date: 2018-08-31 05:50:11
 ---

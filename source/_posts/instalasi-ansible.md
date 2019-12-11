@@ -8,7 +8,7 @@ categories:
 date: 2019-06-28 23:29:00
 ---
 Ansible merupakan automation tool untuk manage banyak remote hosts dari single machine. kali ini aku mau sharing tentang contoh sederhana penerapan tool yang satu ini.. `check this out...`
-
+<!--more-->
 1. konfigurasi akses ssh
 pertama adalah generate ssh keygen pada ansible server
 ```bash
