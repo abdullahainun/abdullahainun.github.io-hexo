@@ -79,7 +79,7 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/abdullahainun/abdullahainun.github.io.git
+  repo: git@github.com:abdullahainun/abdullahainun.github.io.git
   branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
