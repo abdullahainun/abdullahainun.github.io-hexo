@@ -1,10 +1,7 @@
 title: How to install Docker in Ubuntu 18.04
-
-thumbnail: https://pbs.twimg.com/profile_images/1145722943688699904/n4u37v9t_400x400.png
-
+thumbnail: 'https://pbs.twimg.com/profile_images/1145722943688699904/n4u37v9t_400x400.png'
 author: Ainun Abdullah
 tags:
-
   - devops
   - docker
   - cloud computer

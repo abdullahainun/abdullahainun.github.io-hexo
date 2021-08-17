@@ -2,6 +2,8 @@ title: laporan footprinting
 tags:
   - NetworkSecurity
   - Laporan Kuliah
+categories:
+  - Infrastructure
 date: 2018-08-30 19:44:51
 ---
 # laporan footprinting Praktikum Keamanan Jaringan (Tugas 1)

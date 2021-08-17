@@ -2,7 +2,7 @@ title: Hack RDP windows dengan RDPWrap
 author: Ainun Abdullah
 tags: []
 categories:
-  - windows tutorial
+  - Infrastructure
 date: 2018-12-18 20:53:00
 ---
 windows adalah salah satu sistem operasi yang banyak digunakan saat ini, terutama untuk keperluan perkantoran maupun yang lain. salah satu fitur yang banyak digunakan pada jaringan lokal maupun public adalah remote desktop protokol (rdp). yang mana dapat digunakan untuk remote sistem operasi windows dari jaringan. 

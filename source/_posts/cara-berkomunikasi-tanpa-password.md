@@ -7,7 +7,7 @@ tags:
   - ssh-keygen
   - remote-tanpa-pasword
 categories:
-  - linux
+  - Infrastructure
 date: 2018-12-18 18:19:00
 ---
 Apa itu ssh ?

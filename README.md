@@ -1,6 +1,10 @@
 # abdullahainun.github.io
 AbdullahAinun Blog Repository With hexo
 
+# Requirements
+```
+node: 12.16.3
+```
 # How to create article
 ```bash
 aal@aal-ubuntu:~/workspace/abdullahainun.github.io$ hexo server
@@ -28,3 +32,4 @@ Branch 'master' set up to track remote branch 'master' from 'https://github.com/
 INFO  Deploy done: git
 
 ```
+

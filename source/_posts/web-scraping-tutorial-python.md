@@ -3,7 +3,7 @@ author: Ainun Abdullah
 tags:
   - web scraping
 categories:
-  - python
+  - Backend
 date: 2019-05-06 10:59:00
 ---
 Assalamu'alaikum wr wb. selamat pagi temen - temen. semoga kalian dalam keadaan sehat wal afiat. kali ini kita akan membahas mengenai web scraping dengan menggunakan bahasa pemrogaman python. baik kita mulai artikel ini dengan pembahasan mengenai apa itu web scraping, Web scraping (panen web) adalah pengambilan sebuah dokumen semi-terstruktur dari internet, umumnya berupa halaman-halaman web dalam bahasa markup seperti HTML atau XHTML, dan menganalisis dokumen tersebut untuk diambil data tertentu dari halaman tersebut. Istilah gampangnya yaitu pengambilan konten atau sebagian data dari suatu situs web untuk penjelasan lebih detail temen-temen bisa membacanya [disini](https://pesonainformatika.com/other-notes/apa-itu-web-scraping/)

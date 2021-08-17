@@ -1,7 +1,8 @@
 title: Cara download file di google drive dengan command line di linux
 author: Ainun Abdullah
 tags: []
-categories: []
+categories: 
+	- Infrastructure
 date: 2018-12-26 17:40:00
 ---
 Hello guys, Assalamulaikum wr wb. gimana kabar kalian hari ini.  Tentunya senang sekali yaaa. karena masih bisa mentengin blog ini... 

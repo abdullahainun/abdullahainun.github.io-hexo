@@ -4,7 +4,7 @@ tags:
   - git
   - git-submodule
 categories:
-  - devops
+  - Infrastructure
 date: 2019-12-01 07:04:00
 ---
 ### Introduction

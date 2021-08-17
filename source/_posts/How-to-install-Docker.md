@@ -3,7 +3,7 @@ author: Ainun Abdullah
 tags:
   - docker
 categories:
-  - devops
+  - Infrastructure
 date: 2019-12-01 06:47:00
 ---
 Di Linux, Docker memanipulasi rules `iptables` untuk menyediakan isolasi jaringan atau control access.

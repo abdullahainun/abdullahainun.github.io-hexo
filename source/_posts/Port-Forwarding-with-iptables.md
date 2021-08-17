@@ -4,7 +4,7 @@ tags:
   - linux
   - port-forwarding
 categories:
-  - linux
+  - Infrastructure
 date: 2018-12-31 22:52:00
 ---
 Assalamu'alaikum wr wb guys, di malam pergantian tahun 2018 ke 2019 ini aku mau share ilmu tentang port forwarding pada sistem operasi linux.. 
