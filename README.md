@@ -5,6 +5,13 @@ AbdullahAinun Blog Repository With hexo
 ```
 node: 12.16.3
 ```
+# Installation on new machine
+```
+git clone git@github.com:abdullahainun/abdullahainun.github.io.git
+git checkout dev
+git submodule update --init
+```
+
 # How to create article
 ```bash
 aal@aal-ubuntu:~/workspace/abdullahainun.github.io$ hexo server
