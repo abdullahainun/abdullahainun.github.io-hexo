@@ -43,6 +43,8 @@ time_format: 'HH:mm:ss'
 per_page: 10
 pagination_dir: page
 theme: icarus
+sitemap:
+  path: sitemap.xml
 deploy:
   type: git
   repo: 'git@github.com:abdullahainun/abdullahainun.github.io.git'
